@@ -8,7 +8,7 @@ Simply add configuration object to module.loaders like this.
 ```
       {
         test: /\.uml$/,
-        loader: 'babel?presets[]=es2015,presets[]=react!svg-react!plantum?format=svg'
+        loader: 'babel?presets[]=es2015,presets[]=react!svg-react!plantuml?format=svg'
       }
 ```
 
