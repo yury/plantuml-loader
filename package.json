@@ -1,11 +1,25 @@
 {
-  "name": "plantum-loader",
+  "name": "plantuml-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Plantuml loader for WebPack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Yury Korolev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yury/plantuml-loader.git"
+  },
+  "keywords": [
+    "plantuml",
+    "uml",
+    "webpack",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/yury/plantuml-loader/issues"
+  },
+  "homepage": "https://github.com/yury/plantuml-loader#readme"
 }
